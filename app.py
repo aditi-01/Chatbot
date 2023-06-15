@@ -28,7 +28,7 @@ with st.sidebar:
 
     ''')
     add_vertical_space(3)
-    st.write('Made by: Atul Anand (<https://www.linkedin.com/in/atul-anand-356319163/) (<https://medium.com/@atulanand7535>)') 
+    st.write('Made by: Aditi Kumari (<https://www.linkedin.com/in/aditi-kumari-b8595416b/)') 
 
 #Creating list to store generated and past response
 
